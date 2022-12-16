@@ -88,6 +88,11 @@ nav > a {
     transition-duration: 0.5s;
 }
 
+nav > a > img {
+    width: 15px;
+    height: 15px;
+}
+
 nav > a:hover {
     background-color: var(--cor03);
     color: var(--cor05);
